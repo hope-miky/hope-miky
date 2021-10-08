@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Tesfamichael1074/Tesfamichael1074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a very passionate Flutter developer with more than 2 and a half years of experience. I am experienced in creating and developing new features of mobile applications and also very much skillful in shipping them to different groups with high satisfaction. I have good experience in developing sleek performance applications with a well-managed state and pixel-perfect UI/UX implementation. 
 
 I usually follow MVVM design patterns to develop any Flutter application effectively. In terms of state management, I have extensively used Provider and RxDart to organize and abstract specific functionalities and services. With provider patterns and higher-order service components, I have been able to write a modularized and organized code that is easy to reuse and maintain.
