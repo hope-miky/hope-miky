@@ -53,6 +53,3 @@ I have developed a full-scale application from design to development that has an
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Tesfamichael1074&theme=react&show_icons=true&include_all_commits=true" />
 <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tesfamichael1074&theme=react&layout=compact" />
 </p>
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tesfamichael1074&theme=algolia" alt="candida18"  /></p>
