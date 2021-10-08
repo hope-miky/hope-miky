@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Tesfamichael!;I'm+a+Flutter+Developer...;I'm+also+a+backend+API+developer;And+I'm+a+proud+Ethiopian+🇵🇰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Tesfamichael!;I'm+a+Flutter+Developer...;Backend+developer;And+a+proud+Ethiopian+🇪🇹🇰)](https://git.io/typing-svg)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:hope.miky1074@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/tesfamichael-molla-989236171/) [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/tesfamichael.molla/)](https://www.facebook.com/tesfamichael.molla) [![Twitter Badge](https://img.shields.io/badge/-Twitter-3b5998?style=flat-square&labelColor=3b5998&logo=twitter&logoColor=white&link=https://twitter.com/hopemichael1074/)](https://twitter.com/hopemichael1074)
 
