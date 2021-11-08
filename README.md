@@ -25,7 +25,7 @@ Djang      ███████▓░░░░░░░░░░░░░░░
 
 **Some of the technologies I have worked with**
 
-![Django](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![Vue](https://img.shields.io/badge/-Vue.JS-000000?style=flat&logo=Vue.JS)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
