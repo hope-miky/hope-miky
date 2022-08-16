@@ -44,6 +44,8 @@ I started my first job as TME Education Ambassador (2018) at a Polish company ca
 
 As a freelancer I started my journey by conributing to a job market search application for Gost developers, Pakistan as a Flutter developer. Continued to work on WAX NFT and wallet manager app for Token Wave, USA. Now I am working on USSD Mobile banking and Fraud Management systems as a Backend developer at Equity Bank Limited.
 
+Learn more about me https://tesfamichael.dev/ 
+
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Tesfamichael1074&theme=react&show_icons=true&include_all_commits=true" />
