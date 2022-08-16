@@ -25,12 +25,13 @@ Djang      ███████▓░░░░░░░░░░░░░░░
 
 **Some of the technologies I have worked with**
 
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
 ![ReactJS](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![Vue](https://img.shields.io/badge/-Vue.JS-000000?style=flat&logo=Vue.JS)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 
 
