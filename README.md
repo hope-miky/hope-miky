@@ -25,7 +25,7 @@ Djang      ███████▓░░░░░░░░░░░░░░░
 
 **Some of the technologies I have worked with**
 
-![ReactJS](https://img.shields.io/badge/-React.js-000000?style=flat&logo=React.js)
+![ReactJS](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![Vue](https://img.shields.io/badge/-Vue.JS-000000?style=flat&logo=Vue.JS)
