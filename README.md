@@ -25,6 +25,7 @@ Djang      ███████▓░░░░░░░░░░░░░░░
 
 **Some of the technologies I have worked with**
 
+![ReactJS](https://img.shields.io/badge/-React.js-000000?style=flat&logo=React.js)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![Vue](https://img.shields.io/badge/-Vue.JS-000000?style=flat&logo=Vue.JS)
@@ -35,13 +36,11 @@ Djang      ███████▓░░░░░░░░░░░░░░░
 
 
 
-I am a very passionate Flutter/Backend developer with more than 3 and a half years of experience. I am experienced in creating and developing new features of mobile applications and also very much skillful in shipping them to different groups with high satisfaction. I have good experience in developing sleek performance applications with a well-managed state and pixel-perfect UI/UX implementation. 
+I am Tesfamichael Molla, Software Engineer based in Poland. I am born and raised in Woldia, Ethiopia. I started my developer jounrey since highschool studying HTML and CSS and continued my BSc degree in Electrical and Computer Engineering at Wolkite University, 2019.
 
-I have developed many mobile apps, an Arduino Kit manual application for TME Education (Poland), NFT walet tracking app called TokenHead for Aloha EOS (US), Customer service app called MidYaf for GhostDevelopers (Pakistan), and 3x apps called ASTRA ERP, ASTRA INVENTORY, ASTRA HR for Poshak consultancy services PLC, to name the few.
+I started my first job as TME Education Ambassador (2018) at a Polish company called TME, I gave practical workshops and trainings for over 3,500 students in Ethiopia. I continued to be partnered with 2 Garment spacialists to start a startup callled Poshak Consultancy Services PLC, to which I served as a CTO for a year working on SaSS Based ERP Platfor for garment industries. After I left Poshak I continued to persue my dream, to be a full time freelancer. Now I am working as a Mid-Level Backend Developer for one of the fastest growing bank in Africa, Equity Bank Limited.
 
-I also have a good background in developing high performance and secure backend APIs. I am an expert with frameworks like Django, LoopbackJS and ExpressJS. ASTRA ERP for Poshak Consultancy, PICO for Equity Bank, AddisEcom for Personal are some of the projects I contributed to as a backend developer which gave me some familiarity with CI/CD, AWS and Azure services.
-
-I am currently working as a TME Education Ambassador in Ethiopia and a Mid-Level backend developer @ Azenia
+As a freelancer I started my journey by conributing to a job market search application for Gost developers, Pakistan as a Flutter developer. Continued to work on WAX NFT and wallet manager app for Token Wave, USA. Now I am working as a Mid-Level Backend Developer for one of the fastest growing bank in Africa, Equity Bank Limited.
 
 
 <p align= "center">
