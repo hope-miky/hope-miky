@@ -38,9 +38,9 @@ React        ███████████████▓░░░░░░�
 
 
 
-I am Tesfamichael Molla, Software Engineer based in Poland. I am born and raised in Woldia, Ethiopia. I started my developer jounrey since highschool studying HTML and CSS and continued my BSc degree in Electrical and Computer Engineering at Wolkite University, 2019.
+I am Tesfamichael Molla, Software Engineer based in Poland. I am born and raised in Woldia, Ethiopia. I started my developer jounrey since highschool studying HTML and CSS and continued my BSc degree in Electrical and Computer Engineering at Wolkite University, 2019 and now studying Software Engineering at Poznan University of Technology (MSc).
 
-I started my first job as TME Education Ambassador (2018) at a Polish company called TME, I gave practical workshops and trainings for over 3,500 students in Ethiopia. I continued to be partnered with 2 Garment spacialists to start a startup callled Poshak Consultancy Services PLC, to which I served as a CTO for a year working on SaSS Based ERP Platfor for garment industries. After I left Poshak I continued to persue my dream, to be a full time freelancer. Now I am working as a Mid-Level Backend Developer for one of the fastest growing bank in Africa, Equity Bank Limited.
+I started my first job as TME Education Ambassador (2018) at a Polish company called TME, I gave practical workshops and trainings on programming and electronics for over 3,500 students in Ethiopia. I continued to be partnered with 2 Garment spacialists to start a startup callled <strong> Poshak Consultancy Services PLC</strong>, to which I served as a <strong>CTO</strong> for a year working on SaSS Based ERP Platform for garment industries. After I left Poshak I continued to persue my dream, to be a full time freelancer. Now I am working as a Mid-Level Backend Developer for one of the fastest growing bank in Africa, Equity Bank Limited.
 
 As a freelancer I started my journey by conributing to a job market search application for Gost developers, Pakistan as a Flutter developer. Continued to work on WAX NFT and wallet manager app for Token Wave, USA. Now I am working on USSD Mobile banking and Fraud Management systems as a Backend developer at Equity Bank Limited.
 
