@@ -54,6 +54,6 @@ As a freelancer I started my journey by conributing to a job market search appli
 <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hope-miky&theme=react&layout=compact" />
 </p>
 
-<iframe src="https://tesfamiichael.dev"></iframe>
+[![Follow Mohamed El-Qassas GitHub](https://avatars.githubusercontent.com/u/49816567?s=96&v=4)](https://github.com/melqassas/)
 
 
