@@ -54,5 +54,3 @@ As a freelancer I started my journey by conributing to a job market search appli
 <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hope-miky&theme=react&layout=compact" />
 </p>
 
- <iframe frameborder=0 style="min-width: 200px; width: 60%; height: 460px;" scrolling="no" seamless="seamless" srcdoc='<html><body><style type="text/css">.gist .gist-data { height: 400px; }</style><script src="https://gist.github.com/sundbry/55bb902b66a39c0ff83629d9a8015ca4.js"></script></body></html>'></iframe> 
-
