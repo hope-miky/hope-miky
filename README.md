@@ -39,11 +39,7 @@ React        ███████████████▓░░░░░░�
 
 I am Tesfamichael Molla, a Software Engineer based in Poland. I have been studying and working in the field since high school, starting with HTML and CSS and continuing through my BSc in Electrical and Computer Engineering at Wolkite University and now pursuing an MSc in Software Engineering at Poznan University of Technology. I have worked as a TME Education Ambassador, CTO for a startup, and am currently a mid-level backend developer for Equity Bank Limited. Additionally, I have experience as a freelancer, contributing to a job market search application and working on NFT and mobile banking systems.
 
-
-<!-- Learn more about me https://tesfamichael.dev/  -->
-
-### My Azure contributiion for Equity Bank <br />
-<img src='./Screenshot 2022-10-29 at 15.27.23.png' />
+Learn more about me <a href="https://tesfamichael.dev/"> tesfamichael.dev </a>
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=hope-miky&theme=react&show_icons=true&include_all_commits=true" />
