@@ -37,7 +37,7 @@ React        ███████████████▓░░░░░░�
 
 
 
-I am Tesfamichael Molla, a Software Engineer based in Poland. I have been studying and working in the field since high school, starting with HTML and CSS and continuing through my BSc in Electrical and Computer Engineering at Wolkite University and now pursuing an MSc in Software Engineering at Poznan University of Technology. I have worked as a TME Education Ambassador, CTO for a startup, and am currently a mid-level backend developer for Equity Bank Limited. Additionally, I have experience as a freelancer, contributing to a job market search application and working on NFT and mobile banking systems.
+I am Tesfamichael Molla, a Software Engineer based in Poland. I have been studying and working in the field since high school, starting with HTML and CSS and continuing through my BSc in Electrical and Computer Engineering at Wolkite University and after my MSc in Software Engineering at Poznan University of Technology. I have worked as a TME Education Ambassador, CTO for my own startup, mid-level backend developer for Equity Bank Limited, and now a Python Developer for Payability. Additionally, I have experience as a freelancer, contributing to a job market search application and NFT and finicial banking systems.
 
 Learn more about me <a href="https://tesfamichael.dev/"> tesfamichael.dev </a>
 
